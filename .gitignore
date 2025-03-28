@@ -1,0 +1,6 @@
+Commande ECHO activ�e.
+# Ignorer les fichiers temporaires de Visual Studio
+bin/
+obj/
+*.suo
+*.user
